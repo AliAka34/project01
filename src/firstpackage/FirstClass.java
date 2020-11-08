@@ -8,6 +8,7 @@ public class FirstClass {
 		System.out.println("first commit from locam machine");
 		System.out.println("Second line of code I am typing");
 		System.out.println("Third commit from local master");
+		System.out.println("Hello World!");
 
 	}
 }
